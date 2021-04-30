@@ -1,0 +1,7 @@
+[Sound Theme]
+Name=WindWaker
+Directories=stereo
+Comment=Theme using sound effects from Legend of Zelda: Wind Waker
+
+[stereo]
+OutputProfile=stereo
